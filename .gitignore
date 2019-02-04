@@ -1,0 +1,10 @@
+/NetLogo.jar
+/NetLogoLite.jar
+/classes/
+/lib/
+/scalatest*.jar
+/tmp/
+/target
+/project/target
+/project/project
+.bundledFiles

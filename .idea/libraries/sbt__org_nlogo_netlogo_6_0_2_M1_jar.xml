@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.nlogo:netlogo:6.0.2-M1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.nlogo/netlogo/jars/netlogo-6.0.2-M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.nlogo/netlogo/srcs/netlogo-6.0.2-M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
